@@ -37,7 +37,7 @@ If you'd like to contribute to this project or report any issues, please feel fr
 
 For more information or inquiries, you can reach out to me:
 
-- Irem Kaahveci
+- Irem Kahveci
 - kahveciirem@gmail.com
 
 
